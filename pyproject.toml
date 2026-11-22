@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "jt-memory"
+version = "0.1.0"
+description = "Emotion-guided continual memory engine for AI chatbots and agents."
+readme = "README.md"
+requires-python = ">=3.8"
+authors = [{name = "Shrishant Jha", email = "shrishant@example.com"}]
