@@ -1,9 +1,9 @@
 # 🧠 jt-memory
 
-[![PyPI version]](https://pypi.org)
-[![Python 3.8+]](https://python.org)
-[![License: AGPL v3]](https://gnu.org)
-[![Organization]](https://github.io)
+[[PyPI version]](https://pypi.org)
+[[Python 3.8+]](https://python.org)
+[[License: AGPL v3]](https://gnu.org)
+[[Organization]](https://github.io)
 
 **Emotion-Guided Continual Memory Engine for AI Chatbots & Autonomous Agents.**
 
