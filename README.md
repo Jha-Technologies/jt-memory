@@ -9,7 +9,7 @@
 
 Modern AI chatbots and LLM agents suffer from two critical bottlenecks: **catastrophic forgetting** (new context overwrites critical past facts) and **memory bloat** (storing every trivial message increases token costs and latency). 
 
-Developed by **Jha Technologies**, `jt-memory` solves both problems using a neurobiology-inspired **Importance Gate** and **Offline Sleep Pruning**—with **zero external dependencies**.
+Developed by **Jha Technologies**, `jt-memory` reduces both the problems using a neurobiology-inspired **Importance Gate** and **Offline Sleep Pruning**—with **zero external dependencies**.
 
 ---
 
