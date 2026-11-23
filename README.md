@@ -94,7 +94,7 @@ system_prompt = f"You are a helpful assistant. Remember these critical facts:\n{
 ## 📚 Research Foundation
 
 This SDK implements the cognitive memory architecture introduced in:
-* **Jha, S. (2026).** *Emotion-Guided, Low-Energy Continual Learning Architecture for Artificial General Intelligence (AGI).* Jha Technologies Research Labs. [Read Paper][https://github.com/shrishantjha4-byte/Emotion-Guided-AGI-Continual-Learning]
+* **Jha, S. (2026).** *Emotion-Guided, Low-Energy Continual Learning Architecture for Artificial General Intelligence (AGI).* Jha Technologies Research Labs. [Read Paper](https://github.com/shrishantjha4-byte/Emotion-Guided-AGI-Continual-Learning)
 
 ---
 
@@ -105,7 +105,7 @@ This SDK implements the cognitive memory architecture introduced in:
 1. **Open-Source License (AGPL-3.0):** Free for academic research, personal projects, and open-source software compliant with GNU AGPL-3.0 terms.
 2. **Commercial License:** If you wish to integrate `jt-memory` into proprietary, closed-source commercial software, SaaS products, or enterprise systems without AGPL source-disclosure obligations, you must obtain a **Jha Technologies Commercial License & Revenue-Share Agreement**.
 
-For licensing inquiries, custom enterprise integrations, or research collaborations, visit **[(https://jha-technologies.github.io/)]**.
+For licensing inquiries, custom enterprise integrations, or research collaborations, visit **[Jha Technologies](https://jha-technologies.github.io/)**.
 
 ---
 
