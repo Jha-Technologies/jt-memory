@@ -94,7 +94,7 @@ system_prompt = f"You are a helpful assistant. Remember these critical facts:\n{
 ## 📚 Research Foundation
 
 This SDK implements the cognitive memory architecture introduced in:
-* **Jha, S. (2026).** *Emotion-Guided, Low-Energy Continual Learning Architecture for Artificial General Intelligence (AGI).* Jha Technologies Research Labs. [Read Paper][(https://github.com/shrishantjha4-byte/Emotion-Guided-AGI-Continual-Learning)]
+* **Jha, S. (2026).** *Emotion-Guided, Low-Energy Continual Learning Architecture for Artificial General Intelligence (AGI).* Jha Technologies Research Labs. [Read Paper][https://github.com/shrishantjha4-byte/Emotion-Guided-AGI-Continual-Learning]
 
 ---
 
