@@ -17,7 +17,7 @@ Developed by **Jha Technologies**, `jt-memory` solves both problems using a neur
 
 Inspired by human cognitive consolidation, `jt-memory` evaluates every incoming interaction using a prediction-error and emotional-intensity formula:
 
-\[\text{Memory Importance} = \vert{}\text{Expected Outcome} - \text{Actual Outcome}\vert{} \times \text{Emotional Intensity}\]
+$$\[\text{Memory Importance} = \vert{}\text{Expected Outcome} - \text{Actual Outcome}\vert{} \times \text{Emotional Intensity}\]$$
 
 1. **Short-Term Buffer (Low Importance):** Routine messages (e.g., *"Hello"*, *"Okay"*) score below the threshold and stay temporarily in short-term memory.
 2. **Long-Term Consolidation (High Importance):** Unexpected events, user corrections, or critical facts trigger a high prediction-error spike and are permanently locked into long-term memory without overwriting unrelated contexts.
